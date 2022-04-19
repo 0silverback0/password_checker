@@ -8,7 +8,7 @@ by Al Sweigart.
 * Python
 * Regex
 * Recursion
-* unittest
+* Unittest
 * Conditional statements
 * Functions
 * Variables
